@@ -1,4 +1,4 @@
-# Coding interview for On Air Entertainment
+# On Air Entertainment
 
 
 ## Technologies to use
